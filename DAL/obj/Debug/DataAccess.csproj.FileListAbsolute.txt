@@ -10,3 +10,5 @@ C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DataAccess.csproj.CoreCo
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DAL.dll
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DAL.Migrations.AdvisorAndOrderTableCreated.resources
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DataAccess.csproj.GenerateResource.cache

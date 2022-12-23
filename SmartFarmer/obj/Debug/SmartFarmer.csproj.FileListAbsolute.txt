@@ -71,3 +71,8 @@ C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\obj\Debug\SmartFarmer.cspr
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\obj\Debug\SmartFarmer.csproj.CopyComplete
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\obj\Debug\SmartFarmer.dll
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\obj\Debug\SmartFarmer.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\bin\DAL.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\bin\AutoMapper.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\bin\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\bin\DAL.dll.config
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\SmartFarmer\bin\AutoMapper.xml
