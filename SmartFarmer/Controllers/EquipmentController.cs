@@ -11,9 +11,6 @@ namespace SmartFarmer.Controllers
 {
     public class EquipmentController : ApiController
     {
-
-
-
         [Route("api/Equipment")]
         [HttpGet]
         public HttpResponseMessage Get()
