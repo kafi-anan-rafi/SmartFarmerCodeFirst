@@ -11,10 +11,14 @@ namespace DAL.EF.Model
     public class Doctor
     {
         
-        [Key]
+        [Key, ForeignKey("User")]
         public int Id { get; set; }
+        [Required]
         public string Name { get; set; }
+        [Required]
         public string Address { get; set; }
+        [Required]
         public int HourlyRate { get; set; }
+        public virtual User User { get; set; }
     }
 }

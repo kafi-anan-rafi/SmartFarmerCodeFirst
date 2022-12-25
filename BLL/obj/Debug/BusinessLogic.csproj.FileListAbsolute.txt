@@ -54,3 +54,17 @@ C:\Users\Suvo\Desktop\Shadman\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.c
 C:\Users\Suvo\Desktop\Shadman\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.csproj.CopyComplete
 C:\Users\Suvo\Desktop\Shadman\SmartFarmerCodeFirst\BLL\obj\Debug\BLL.dll
 C:\Users\Suvo\Desktop\Shadman\SmartFarmerCodeFirst\BLL\obj\Debug\BLL.pdb
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\BLL.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\BLL.pdb
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\AutoMapper.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\DAL.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\EntityFramework.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\DAL.pdb
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\DAL.dll.config
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\AutoMapper.xml
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\bin\Debug\EntityFramework.xml
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\obj\Debug\BLL.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\BLL\obj\Debug\BLL.pdb

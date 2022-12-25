@@ -12,7 +12,7 @@ namespace BLL.Services
 {
     public class UserService
     {
-        public static UserDto AddCustomer(UserDto user)
+        public static UserDto AddUser(UserDto user)
         {
             var cfg = new MapperConfiguration(c =>
             {

@@ -31,9 +31,10 @@ namespace SmartFarmer.Controllers
         [Route("api/User/add")]
         public HttpResponseMessage Add(UserDto user)
         {
-            var data = UserService.AddCustomer(user);
+            var data = UserService.AddUser(user);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
+        
         [HttpDelete]
         [Route("api/User/Delete/{id}")]
 

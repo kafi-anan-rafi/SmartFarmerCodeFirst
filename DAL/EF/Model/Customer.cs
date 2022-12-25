@@ -12,7 +12,9 @@ namespace DAL.EF.Model
     {
         [Key, ForeignKey("User")]
         public int UserId { get; set; }
+        [Required]
         public string Username { get; set; }
+        [Required]
         public string Address { get; set; }
         public virtual User User { get; set; }
     }

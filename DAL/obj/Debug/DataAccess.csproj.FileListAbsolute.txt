@@ -55,3 +55,21 @@ C:\Users\Suvo\Desktop\Shadman\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.pdb
 C:\Users\Suvo\Desktop\Shadman\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.FarmerLoanAndEquipmentTableAdded.resources
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.FarmerLoanAndEquipmentTableAdded.resources
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.AllOtherTableAdded.resources
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\bin\Debug\DAL.dll.config
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\bin\Debug\DAL.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\bin\Debug\DAL.pdb
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.xml
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.AdvisorAndOrderTableAdded.resources
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.FarmerLoanAndEquipmentTableAdded.resources
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.AllOtherTableAdded.resources
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.GenerateResource.cache
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.CopyComplete
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.dll
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.pdb
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.UserRelationAdded.resources
+D:\classWork\New folder (2)\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.smallChange.resources

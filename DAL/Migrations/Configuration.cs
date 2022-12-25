@@ -18,7 +18,7 @@
         protected override void Seed(DAL.EF.FarmerContext context)
         {
             // seeding Order data
-            List<Order> orders = new List<Order>();
+            /*List<Order> orders = new List<Order>();
             for (int i = 1; i <= 10; i++)
             {
                 orders.Add(new Order()
@@ -33,10 +33,10 @@
 
                 });
             }
-            context.Orders.AddOrUpdate(orders.ToArray());
-            
+            context.Orders.AddOrUpdate(orders.ToArray());*/
+
             // seeding Order data
-            List<Advisor> advisors = new List<Advisor>();
+            /*List<Advisor> advisors = new List<Advisor>();
             Random random = new Random();
             for (int i = 1; i <= 500; i++)
             {
@@ -48,7 +48,22 @@
                     Name = Guid.NewGuid().ToString(),
                 });
             }
-            context.Advisors.AddOrUpdate(advisors.ToArray());
+            context.Advisors.AddOrUpdate(advisors.ToArray());*/
+            List<User> Users = new List<User>();
+            Random random = new Random();
+            string[] type = { "Customer", "Farmer", "Doctor", "Advisor" };
+            for (int i = 1; i <= 10; i++)
+            {
+                Users.Add(new User()
+                {
+                    Id = i,
+                    Email = string.Format("qa{0:0000}@gmail.com", random.Next(10000)),
+                    Password = Guid.NewGuid().ToString(),
+                    Type = type[random.Next(i)%4],                   
+
+                });
+            }
+            context.Users.AddOrUpdate(Users.ToArray());
         }
     }
 }

@@ -12,8 +12,11 @@ namespace DAL.EF.Model
     {
         [Key]
         public int Id { get; set; }
+        [Required]
         public int CustomerId { get; set; }
+        [Required]
         public int FarmerId { get; set; }
+        [Required]
         public int RatingPoint { get; set; }
     }
 }

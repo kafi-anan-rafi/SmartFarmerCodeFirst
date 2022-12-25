@@ -11,10 +11,16 @@ namespace DAL.EF.Model
     {
         [Key]
         public int Id { get; set; }
+        [Required]
         public string Email { get; set; }
+        [Required]
         public string Password { get; set; }
+        [Required]
         public string Type { get; set; }
         public virtual Customer Customer { get; set; }
+        public virtual Doctor Doctor { get; set; }
+        public virtual Farmer Farmer { get; set; }
+        public virtual Advisor Advisor { get; set; }
 
     }
 }
