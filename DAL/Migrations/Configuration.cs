@@ -50,6 +50,7 @@
             }
             context.Advisors.AddOrUpdate(advisors.ToArray());*/
             List<User> Users = new List<User>();
+            List<Customer> Customers = new List<Customer>();
             Random random = new Random();
             string[] type = { "Customer", "Farmer", "Doctor", "Advisor" };
             for (int i = 1; i <= 10; i++)
@@ -61,7 +62,7 @@
                     Password = Guid.NewGuid().ToString(),
                     Type = type[random.Next(i)%4],                   
 
-                });
+                });                
             }
             context.Users.AddOrUpdate(Users.ToArray());
         }

@@ -68,25 +68,9 @@
     <Compile Include="EF\Model\User.cs" />
     <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
-    <Compile Include="Migrations\202212240522343_AdvisorAndOrderTableAdded.cs" />
-    <Compile Include="Migrations\202212240522343_AdvisorAndOrderTableAdded.designer.cs">
-      <DependentUpon>202212240522343_AdvisorAndOrderTableAdded.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202212240852113_FarmerLoanAndEquipmentTableAdded.cs" />
-    <Compile Include="Migrations\202212240852113_FarmerLoanAndEquipmentTableAdded.designer.cs">
-      <DependentUpon>202212240852113_FarmerLoanAndEquipmentTableAdded.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202212241813362_AllOtherTableAdded.cs" />
-    <Compile Include="Migrations\202212241813362_AllOtherTableAdded.designer.cs">
-      <DependentUpon>202212241813362_AllOtherTableAdded.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202212250553484_UserRelationAdded.cs" />
-    <Compile Include="Migrations\202212250553484_UserRelationAdded.designer.cs">
-      <DependentUpon>202212250553484_UserRelationAdded.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202212250611439_smallChange.cs" />
-    <Compile Include="Migrations\202212250611439_smallChange.designer.cs">
-      <DependentUpon>202212250611439_smallChange.cs</DependentUpon>
+    <Compile Include="Migrations\202212251210566_AllRelations.cs" />
+    <Compile Include="Migrations\202212251210566_AllRelations.designer.cs">
+      <DependentUpon>202212251210566_AllRelations.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -102,6 +86,7 @@
     <Compile Include="Repos\RatingRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\ServiceRepo.cs" />
+    <Compile Include="Repos\TokenRepo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -109,20 +94,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202212240522343_AdvisorAndOrderTableAdded.resx">
-      <DependentUpon>202212240522343_AdvisorAndOrderTableAdded.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202212240852113_FarmerLoanAndEquipmentTableAdded.resx">
-      <DependentUpon>202212240852113_FarmerLoanAndEquipmentTableAdded.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202212241813362_AllOtherTableAdded.resx">
-      <DependentUpon>202212241813362_AllOtherTableAdded.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202212250553484_UserRelationAdded.resx">
-      <DependentUpon>202212250553484_UserRelationAdded.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202212250611439_smallChange.resx">
-      <DependentUpon>202212250611439_smallChange.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202212251210566_AllRelations.resx">
+      <DependentUpon>202212251210566_AllRelations.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -58,6 +58,10 @@ namespace DAL
         {
             return new CommentRepo();
         }
+        public static IRepo<Token, string, Token> TokenAccess()
+        {
+            return new TokenRepo();
+        }
 
         // Anisur
 

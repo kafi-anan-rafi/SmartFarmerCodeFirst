@@ -21,6 +21,13 @@ namespace DAL.EF.Model
         public virtual Doctor Doctor { get; set; }
         public virtual Farmer Farmer { get; set; }
         public virtual Advisor Advisor { get; set; }
+        public virtual List<Order> Orders { get; set; }
+        public virtual List<Service> Services { get; set; }
+        public User()
+        {
+            Orders = new List<Order>();
+            Services = new List<Service>();
+        }
 
     }
 }
